@@ -18,7 +18,7 @@
 <!-- 	<div th:replace="~{fragments/navbar :: navbar}"></div>
  -->
  
- <%@ include file="/WEB-INF/fragments/home.jsp" %>
+ <%@ include file="/WEB-INF/views/home.jsp" %>
  
 <div class="container mt-5">
     <div class="row justify-content-center">

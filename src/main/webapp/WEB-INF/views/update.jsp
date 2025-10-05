@@ -13,7 +13,7 @@
 
 <div class="container mt-5">
 
-<%@ include file="/WEB-INF/fragments/home.jsp" %>
+<%@ include file="/WEB-INF/views/home.jsp" %>
 
     <h1 class="text-center text-success mb-4">Update Contact</h1>
 

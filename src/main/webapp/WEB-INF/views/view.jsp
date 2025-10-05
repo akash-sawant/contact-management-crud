@@ -12,7 +12,7 @@
 </head>
 <body class="bg-light">
 
-<jsp:include page="/WEB-INF/fragments/home.jsp" />
+<jsp:include page="/WEB-INF/views/home.jsp" />
 
 <div class="container mt-5">
 
